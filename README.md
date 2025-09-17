@@ -6,4 +6,3 @@ A C# console application that demonstrates the core principles of an AR system t
 
 
 
-
